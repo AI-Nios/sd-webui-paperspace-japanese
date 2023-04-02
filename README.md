@@ -1,1 +1,1 @@
-# -sd-webui-paperspace-japanese
+# sd-webui-paperspace-japanese
